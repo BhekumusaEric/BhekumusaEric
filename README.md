@@ -6,7 +6,7 @@
 >   <br/>
 >   
 >   [![GitHub followers](https://img.shields.io/github/followers/BhekumusaEric?style=for-the-badge&logo=github&color=236ad3)](https://github.com/BhekumusaEric?tab=followers)
->   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/bhekumusa-eric-ntshwenya/)
+>   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/bhekumusaericntshwenya/)
 > </div>
 > 
 > ## 🚀 About Me
