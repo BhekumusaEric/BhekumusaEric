@@ -27,7 +27,7 @@ I'm a passionate **Automation Engineer** and **Full-Stack Developer** specializi
 
 | � **Metric** | 📊 **Value** | 🚀 **Impact** |
 |:---:|:---:|:---:|
-| **Users Served** | 10,000+ | Automated university applications for South African students |
+| **Users Served** | 100+ | Automated university applications for South African students |
 | **Institutions Integrated** | 200+ | Real-time data scraping from educational institutions |
 | **Success Rate** | 95% | Application processing automation accuracy |
 | **Live Projects** | 5+ | Production-ready applications with real users |
